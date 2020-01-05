@@ -30,3 +30,9 @@ Please include the url to your forked repository with the fixed webserver in you
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
 - [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+
+## How to run the application
+- First fork then clone
+- Open it in a text editor of choice
+- `npm install`
+- Finally `npm start` and once server is running go to http://localhost:3000/
